@@ -3,6 +3,7 @@ const person = {
     firstName: 'John',
     lastName: 'Doe',
     age: 30,
+    job:'Police',
     email: 'john.doe@example.com',
     address: {
         street: '123 Main St',
